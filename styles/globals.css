@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.container {
+  max-width: 80%;
+  margin: auto;
+  border: dashed 1px tomato;
+}
+
+.link {
+  text-decoration: none;
+  background-color: olive;
+  color: white;
+  display: inline-block;
+  margin: 0.5rem 0;
+}
